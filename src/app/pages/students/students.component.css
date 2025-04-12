@@ -1,0 +1,25 @@
+.estudiantes-container {
+  padding: 40px;
+  background-color: #ffffff;
+  color: #333;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.beneficios ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.testimonios {
+  margin-top: 30px;
+  font-style: italic;
+  background-color: #f0f8ff;
+  padding: 20px;
+  border-left: 5px solid #3498db;
+  border-radius: 5px;
+}
